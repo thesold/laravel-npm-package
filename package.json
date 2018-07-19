@@ -1,5 +1,5 @@
 {
-    "name": "@thesold/laravel-npm-package",
+    "name": "@__org__/__app__",
     "version": "1.0.0",
     "description": "Boilerplate repository for creating new Laravel or Javascript/Vue NPM packages",
     "main": "dist-js/index.js",
@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/thesold/laravel-npm-package.git"
+        "url": "git+https://github.com/__org__/__app__.git"
     },
     "keywords": [
         "boilerplate"
@@ -19,9 +19,9 @@
     "author": "Marco Mark <m2de@outlook.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/thesold/laravel-npm-package/issues"
+        "url": "https://github.com/__org__/__app__/issues"
     },
-    "homepage": "https://github.com/thesold/laravel-npm-package#readme",
+    "homepage": "https://github.com/__org__/__app__#readme",
     "devDependencies": {
         "babel-core": "^6.26.3",
         "babel-eslint": "^8.2.6",
