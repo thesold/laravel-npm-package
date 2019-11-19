@@ -18,7 +18,7 @@ class PackageServiceProvider extends ServiceProvider
         $this->bootAssets();
         $this->bootCommands();
         $this->publishDatabaseFiles();
-        $this->registerMiddleware();
+        $this->registerMiddleware($router);
     }
 
     /**
