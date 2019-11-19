@@ -1,6 +1,6 @@
 <?php
 
-namespace __Org_\__App__\Providers;
+namespace __Org__\__App__\Providers;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
